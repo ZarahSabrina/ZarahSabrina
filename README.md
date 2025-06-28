@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**ZarahSabrina/ZarahSabrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi, I'm Zarah Sabrina Larasati! 👋
 
 ✨ I'm interested in data analysis and machine learning.
