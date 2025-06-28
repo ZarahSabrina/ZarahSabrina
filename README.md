@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Zarah Sabrina Larasati! 👋
 
 ✨ I'm interested in data analysis and machine learning.
